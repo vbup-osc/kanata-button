@@ -10,7 +10,7 @@ describe('Index', function () {
 
     //App Bar title
     const title = await driver.findElement(By.css('.v-toolbar__title')).getText();
-    expect(title).to.include('(^・ω・^§)ﾉ');
+    expect(title).to.include('');
 
     //Switch to Japanese
     await driver.findElement(By.css('.white--text:nth-child(9) svg')).click();
@@ -26,7 +26,7 @@ describe('Index', function () {
     const label = await driver
       .findElement(By.xpath("//div[@id='app']/div/main/div/div/div/div[3]/div[3]/div[2]/button/span/div"))
       .getText();
-    expect(label).to.equal('こ～んにゃにゃこ～ん~');
+    expect(label).to.equal('へい！');
   });
   after(() => {
     driver.quit();

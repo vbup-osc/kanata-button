@@ -1,6 +1,6 @@
 {
   "site": {
-    "title": "Fubuki Button",
+    "title": "Kanata Button",
     "description": "Brand-new voice buttons for Shirakami Fubuki, we are aimming at building a comprehensive project related to Shirakami Fubuki.\n",
     "index": "Home",
     "about": "About",
@@ -17,7 +17,7 @@
     "schedule": "Scheduled at ",
     "on_air": "LIVE NOW",
     "no_schedule": "No scheduled live is found.",
-    "notification": "Fubuki Button's website URL has changed to fubuki.moe"
+    "notification": "Glad to meet you @Kanata Button"
   },
   "control": {
     "self": "Player Control",
@@ -40,6 +40,7 @@
     "title": "Links",
     "vm": "VTuber Music",
     "collection": "VTuber Buttons Collection",
+    "fubuki": "Fubuki Button",
     "mio": "Mio Button",
     "korone": "Korone Button",
     "okayu": "Okayu Button",

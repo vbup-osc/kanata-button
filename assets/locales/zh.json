@@ -1,7 +1,7 @@
 {
   "site": {
-    "title": "狐按钮",
-    "description": "全新的白上吹雪语音按钮，目标是打造一个整合白上吹雪各个方面的应援项目",
+    "title": "彼方碳按钮",
+    "description": "新生彼方碳按钮，绝赞持续建设中~",
     "index": "主页",
     "about": "关于",
     "switch_dark_mode": "夜间模式开关",
@@ -17,7 +17,7 @@
     "schedule": "计划",
     "on_air": "正在直播",
     "no_schedule": "还没有发现正在或计划中的直播",
-    "notification": "狐按钮的访问域名已经改成fubuki.moe啦，快换掉你的收藏夹吧！\n御宅白狐的狐笋之林正在寻找有能man加入，急需**校对**、翻译、剪辑、后期、美工、开发、画师等，[点击此处查看详情](https://t.bilibili.com/417413131178384856 \"救救草bot 救救狐协\")"
+    "notification": "天音彼方陶碗工厂招新中~翻轴校有能man快到碗里来!"
   },
   "control": {
     "self": "播放控制",
@@ -28,7 +28,7 @@
     "overlap": "重叠播放",
     "random": "随机播放",
     "repeat": "洗脑循环",
-    "full_name": "白上吹雪",
+    "full_name": "天音彼方",
     "overlap_title": "多重狐狸"
   },
   "dev": {
@@ -40,6 +40,7 @@
     "title": "友情链接",
     "vm": "VTuber Music",
     "collection": "VTuber按钮合集",
+    "fubuki": "狐按钮",
     "mio": "狼按钮",
     "korone": "狗按钮",
     "okayu": "猫按钮",

@@ -84,8 +84,8 @@
       app
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="$t('site.title') + '(^・ω・^§)ﾉ'" />
-      <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px;" />
+      <v-toolbar-title v-text="$t('site.title')" />
+      <!-- <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px;" /> -->
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">

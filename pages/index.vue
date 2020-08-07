@@ -188,7 +188,7 @@ export default {
   computed: {
     voice_host() {
       if (process.env.NODE_ENV === 'production')
-        return 'https://cdn.jsdelivr.net/gh/oruyanke/fubuki-button@master/static/voices/';
+        return 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/';
       else return '/voices/';
     },
     dark_text() {
@@ -233,6 +233,7 @@ export default {
   methods: {
     async fetch_live_data() {
       const query_url = 'https://api.konkon.icu/v1/live';
+      // TODO
       const channel = 13; // HoloAPI ID
       this.$axios
         .get(query_url, { params: { channel_id: channel } })
@@ -339,7 +340,7 @@ export default {
   },
   head() {
     return {
-      title: this.$t('site.title') + '(^・ω・^§)ﾉ',
+      title: this.$t('site.title'),
       link: [{ rel: 'canonical', href: 'https://fubuki.moe' }]
     };
   }

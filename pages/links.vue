@@ -25,6 +25,12 @@ export default {
     links() {
       return [
         {
+          title: this.$t('links.fubuki'),
+          url: 'https://ookamimio.org',
+          emoji: '🌽',
+          color_class: 'grey darken-3'
+        },
+        {
           title: this.$t('links.mio'),
           url: 'https://ookamimio.org',
           emoji: '🌲',

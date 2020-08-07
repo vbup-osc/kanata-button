@@ -13,20 +13,20 @@ export default {
    ** Headers of the page
    */
   head: {
-    title: 'フブキボタン',
+    title: 'かなたんボタン',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
       {
         hid: 'description',
         name: 'description',
-        content: '白上フブキの音声ボタン 白上吹雪语音按钮 Voice button for Shirakami Fubuki'
+        content: '天音かなたの音声ボタン 天音彼方语音按钮 Voice button of Amane Kanata'
       },
       {
         hid: 'keywords',
         name: 'keywords',
         content:
-          'フブキボタン,FUBUKI BUTTON,狐按钮,hololive,Shirakami Fubuki,白上フブキ,白上吹雪,吹雪,小狐狸,屑狐狸,喵喵狐,语音按钮,ボイスボタン'
+          'かなたんボタン,Kanata BUTTON,彼方碳按钮,hololive,Amane Kanata,天音かなた,かなた,かなたん,彼方,彼方碳,天哥,音妹,汤达人,语音按钮,ボイスボタン'
       },
       { hid: 'og:site_name', property: 'og:site_name', content: 'フブキボタン' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
@@ -35,7 +35,7 @@ export default {
       {
         hid: 'og:description',
         property: 'og:description',
-        content: '新しい白上フブキのボイスボタン。私たちの目標は白上フブキの総合的なファンサイトを作ることです。'
+        content: '新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー'
       },
       { hid: 'og:image', property: 'og:image', content: 'https://fubuki.moe/img/og_common.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
@@ -111,7 +111,7 @@ export default {
     workbox: {
       runtimeCaching: [
         {
-          urlPattern: 'https://cdn.jsdelivr.net/gh/oruyanke/fubuki-button@master/static/voices/*'
+          urlPattern: 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/*'
         }
       ]
     }
@@ -178,7 +178,7 @@ export default {
           console.log('Started triggering actions, build time', dayjs.utc().format());
           axios
             .post(
-              'https://api.github.com/repos/oruyanke/fubuki-button/dispatches',
+              'https://api.github.com/repos/oruyanke/kanata-button/dispatches',
               {
                 event_type: 'Vercel Build ' + dayjs.utc().format()
               },

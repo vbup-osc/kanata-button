@@ -1,34 +1,35 @@
 # 狐按钮 / FUBUKI-BUTTON
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/fubuki-button)
-![Build](https://img.shields.io/github/workflow/status/oruyanke/fubuki-button/FBK-BTN-NG-CI)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/fubuki-button)
-![Starts](https://img.shields.io/github/stars/oruyanke/fubuki-button)
+![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
+![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button)
+![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button)
+![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button)
 
-README: **中文** | [日本語](https://github.com/oruyanke/fubuki-button/blob/master/README.JA.md) | [English](https://github.com/oruyanke/fubuki-button/blob/master/README.EN.md)
+README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
 
 > 全新的白上吹雪语音按钮，目标是打造一个整合白上吹雪各个方面的应援项目
 
-项目地址： https://fubuki.moe
+<!-- 项目地址： https://fubuki.moe -->
+项目仍在二次开发中 暂未部署
 
 相关链接:
 
-- [白上吹雪的 YouTube 频道](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
+<!-- - [白上吹雪的 YouTube 频道](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
 - [白上吹雪的 Bilibili 频道](https://space.bilibili.com/332704117)
-- [白上吹雪的 Twitter](https://twitter.com/shirakamifubuki)
+- [白上吹雪的 Twitter](https://twitter.com/shirakamifubuki) -->
 
-## 计划中的特性
+<!-- ## 计划中的特性
 
 - fubukitap(类似[mikutap](https://aidn.jp/mikutap/))
 - 直播/活动日历
 - 吹雪表情包合集/搜索
-- YouTube/Bilibili数据可视化
+- YouTube/Bilibili数据可视化 -->
 
 ## 参与完善本项目
 
 如果您不知道如何直接参与GitHub开发，可以直接将素材或意见建议发送到[voice@fubuki.moe](mailto:voice@fubuki.moe)，带上标题、内容以及您的ID（Bilibili、Twitter等均可），贡献者名单将会有您的名字。
 
-当然您也可以发在 [Issues](https://github.com/copperion/fubuki-button/issues) ，同样也请带上标题和内容。
+当然您也可以发在 [Issues](https://github.com/oruyanke/kanata-button/issues) ，同样也请带上标题和内容。
 
 如果您可以进行开发，那么请Fork本项目进行修改，完成修改后在本项目中发起一个Pull Request，详细说明如下：
 
@@ -62,13 +63,17 @@ README: **中文** | [日本語](https://github.com/oruyanke/fubuki-button/blob/
 - GitHub [孤单离子](https://github.com/lonelyion)
 - GitHub [Asrui Morus](https://github.com/Morxi)
 
+维护|二次开发：
+
+- GitHub [茶目](https://github.com/Cyame)
+
 音频剪辑：
 
-- Bilibili [孤单离子](https://space.bilibili.com/7564991)
+<!-- - Bilibili [孤单离子](https://space.bilibili.com/7564991)
 - Bilibili [清流ht](https://space.bilibili.com/22311554)
 - Bilibili [绯月天则](https://space.bilibili.com/1592713)
 - Bilibili [hanyuu](https://m.bilibili.com/space/356250024)
-- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520)
+- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520) -->
 
 翻译：
 
@@ -76,17 +81,22 @@ README: **中文** | [日本語](https://github.com/oruyanke/fubuki-button/blob/
 - GitHub [Yourein](https://github.com/Yourein)
 - Twitter [nekoy0212anagi](https://twitter.com/nekoy0212anagi)
 - GitHub [Emmmer](https://github.com/ShirakamiEmmmer)
+- GitHub [茶目](https://github.com/Cyame)
 
 特别感谢：
 
 - [VTuber Music](https://vtbmusic.com/)
-- Bilibili [吹雪的猫咪茶铺](https://space.bilibili.com/431210892)
+- Bilibili [天音彼方Official](https://space.bilibili.com/491474048)
+- Bilibili [天音彼方陶碗工厂](https://space.bilibili.com/54139629)
+- Bilibili [天音梧桐]()
+<!-- - Bilibili [吹雪的猫咪茶铺](https://space.bilibili.com/431210892)
 - Bilibili [白上吹雪周报](https://space.bilibili.com/487763794)
 - Bilibili [戌神沁音的手指面包店](https://space.bilibili.com/45070033)
-- Bilibili [亡音ちゃん](https://space.bilibili.com/2613724)
+- Bilibili [亡音ちゃん](https://space.bilibili.com/2613724) -->
 - 以及以下在GitHub参与过项目的各位
 
 [![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
 
 ## 协议
 
