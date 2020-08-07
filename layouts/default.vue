@@ -276,13 +276,13 @@ export default {
       external_cn: [
         {
           icon: 'alpha_b_box',
-          title: '御宅白狐的狐笋之林',
-          to: 'https://space.bilibili.com/314977548'
+          title: '天音彼方陶碗工厂',
+          to: 'https://space.bilibili.com/54139629'
         },
         {
           icon: 'newspaper',
-          title: '白上吹雪周报',
-          to: 'https://space.bilibili.com/487763794/article'
+          title: '天音彼方周报',
+          to: 'https://www.bilibili.com/read/readlist/rl233589'
         }
       ]
     };

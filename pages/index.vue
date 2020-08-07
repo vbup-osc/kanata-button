@@ -234,7 +234,7 @@ export default {
     async fetch_live_data() {
       const query_url = 'https://api.konkon.icu/v1/live';
       // TODO
-      const channel = 13; // HoloAPI ID
+      const channel = 29; // HoloAPI ID
       this.$axios
         .get(query_url, { params: { channel_id: channel } })
         .then(res => {

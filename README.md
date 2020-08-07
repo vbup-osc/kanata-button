@@ -1,4 +1,4 @@
-# 狐按钮 / FUBUKI-BUTTON
+# 彼方碳按钮 / KANATA-BUTTON
 
 ![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
 ![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button)
@@ -7,16 +7,16 @@
 
 README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
 
-> 全新的白上吹雪语音按钮，目标是打造一个整合白上吹雪各个方面的应援项目
+> 新生彼方碳按钮，绝赞持续建设中~
 
 <!-- 项目地址： https://fubuki.moe -->
-项目仍在二次开发中 暂未部署
+项目临时部署在Gitee Pages中： https://cyame.gitee.io/kanata-button
 
 相关链接:
 
-<!-- - [白上吹雪的 YouTube 频道](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
-- [白上吹雪的 Bilibili 频道](https://space.bilibili.com/332704117)
-- [白上吹雪的 Twitter](https://twitter.com/shirakamifubuki) -->
+- [天音彼方的 YouTube 频道](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
+- [天音彼方的 Bilibili 频道](https://space.bilibili.com/491474048)
+- [天音彼方的 Twitter](https://twitter.com/amanekanatach)
 
 <!-- ## 计划中的特性
 
@@ -69,6 +69,9 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 音频剪辑：
 
+- 风之门
+- キルケー
+- 魂喵
 <!-- - Bilibili [孤单离子](https://space.bilibili.com/7564991)
 - Bilibili [清流ht](https://space.bilibili.com/22311554)
 - Bilibili [绯月天则](https://space.bilibili.com/1592713)
@@ -88,15 +91,10 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 - [VTuber Music](https://vtbmusic.com/)
 - Bilibili [天音彼方Official](https://space.bilibili.com/491474048)
 - Bilibili [天音彼方陶碗工厂](https://space.bilibili.com/54139629)
-- Bilibili [天音梧桐]()
-<!-- - Bilibili [吹雪的猫咪茶铺](https://space.bilibili.com/431210892)
-- Bilibili [白上吹雪周报](https://space.bilibili.com/487763794)
-- Bilibili [戌神沁音的手指面包店](https://space.bilibili.com/45070033)
-- Bilibili [亡音ちゃん](https://space.bilibili.com/2613724) -->
+- 天音梧桐
 - 以及以下在GitHub参与过项目的各位
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
 
 ## 协议
 
