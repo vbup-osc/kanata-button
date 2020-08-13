@@ -1,23 +1,591 @@
 {
-  "groups": [
+  "groups": [{
+      "group_name": "anti",
+      "group_description": {
+        "zh": "问题发言",
+        "en": "Violent Speech",
+        "ja": "暴言"
+      },
+      "voice_list": [{
+          "name": "k-a-001",
+          "path": "/k-a-001.mp3",
+          "description": {
+            "zh": "这是漏⭕了吧？",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-002",
+          "path": "/k-a-002.mp3",
+          "description": {
+            "zh": "萝莉控天使",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-003",
+          "path": "/k-a-003.mp3",
+          "description": {
+            "zh": "胸部下垂了！",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-004",
+          "path": "/k-a-004.mp3",
+          "description": {
+            "zh": "等下这个牙白这个不是很h吗",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-005",
+          "path": "/k-a-005.mp3",
+          "description": {
+            "zh": "果然我是一个欧派星人",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-006",
+          "path": "/k-a-006.mp3",
+          "description": {
+            "zh": "我是dd天使",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-007",
+          "path": "/k-a-007.mp3",
+          "description": {
+            "zh": "想要去偷看奶奶上厕所了！",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-008",
+          "path": "/k-a-008.mp3",
+          "description": {
+            "zh": "对店长暴言的天使",
+            "en": "",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-a-009",
+          "path": "/k-a-009.mp3",
+          "description": {
+            "zh": "呼吸天使",
+            "en": "",
+            "ja": ""
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "toGreet",
+      "group_description": {
+        "zh": "角色台词",
+        "en": "Charactorized Speech",
+        "ja": "キャラセリフ"
+      },
+      "voice_list": [{
+          "name": "k-t-001",
+          "path": "/k-a-001.mp3",
+          "description": {
+            "zh": "自我介绍（活泼ver）",
+            "en": "Self-Introduction(Pleased Version)",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-t-002",
+          "path": "/k-t-002.mp3",
+          "description": {
+            "zh": "自我介绍（低声ver）",
+            "en": "Self-Introduction(Low Voice)",
+            "ja": ""
+          }
+        },
+        {
+          "name": "k-t-003",
+          "path": "/k-t-003.mp3",
+          "description": {
+            "zh": "自我介绍",
+            "en": "Self-Introduction",
+            "ja": ""
+          }
+        }, {
+          "name": "k-t-004",
+          "path": "/k-t-004.mp3",
+          "description": {
+            "zh": "索兰索兰",
+            "en": "Soran Soran",
+            "ja": "ソーラン、ソーラン"
+          }
+        },
+        {
+          "name": "k-t-005",
+          "path": "/k-t-005.mp3",
+          "description": {
+            "zh": "嘿",
+            "en": "Hey",
+            "ja": "へぃ"
+          }
+        },
+        {
+          "name": "k-t-006",
+          "path": "/k-t-006.mp3",
+          "description": {
+            "zh": "六魁首六魁首",
+            "en": "Dokkoisho, dokkoisho!",
+            "ja": "ドッコイショ！ドッコイショ！"
+          }
+        },
+        {
+          "name": "k-t-007",
+          "path": "/k-t-007.mp3",
+          "description": {
+            "zh": "の段（颤抖）",
+            "en": "'s Dan (shaking)",
+            "ja": "の段（震え声）"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "chinese",
+      "group_description": {
+        "zh": "中文(?)",
+        "en": "Chinese words",
+        "ja": "中国語(笑)"
+      },
+      "voice_list": [{
+          "name": "k-c-001",
+          "path": "/k-c-001.mp3",
+          "description": {
+            "zh": "请绑好安全带",
+            "en": "Please wear your safe belt",
+            "ja": "安全ベルトをしっかりと締める"
+          }
+        },
+        {
+          "name": "k-c-002",
+          "path": "/k-c-002.mp3",
+          "description": {
+            "zh": "谢谢↑",
+            "en": "'Thank you",
+            "ja": "ありがとう"
+          }
+        },
+        {
+          "name": "k-c-003",
+          "path": "/k-c-003.mp3",
+          "description": {
+            "zh": "我爱你三连",
+            "en": "I love you",
+            "ja": "愛してる　"
+          }
+        },
+        {
+          "name": "k-c-004",
+          "path": "/k-c-004.mp3",
+          "description": {
+            "zh": "嘿！巴扎嘿！",
+            "en": "Hey! Bazahey!",
+            "ja": "へぃ！ばーざーへぃ！"
+          }
+        },
+        {
+          "name": "k-c-005",
+          "path": "/k-c-005.mp3",
+          "description": {
+            "zh": "吃好晚饭来看b站 听我天哥来唱索兰",
+            "en": "Come to Bilibili after the meal, listen to my Soran Bushi.",
+            "ja": "ご飯の後ビリビリに来い　ソーラン節を聞いてご覧"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "gachi",
+      "group_description": {
+        "zh": "Gachi视角",
+        "en": "Falling with Kanatan",
+        "ja": "ガチ視点"
+      },
+      "voice_list": [{
+        "name": "k-g-001",
+          "path": "/k-g-001.mp3",
+          "description": {
+            "zh": "绝赞喷嚏",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-002",
+          "path": "/k-g-002.mp3",
+          "description": {
+            "zh": "谢谢",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-003",
+          "path": "/k-g-003.mp3",
+          "description": {
+            "zh": "钉宫三连",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-004",
+          "path": "/k-g-004.mp3",
+          "description": {
+            "zh": "少女尖叫",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-005",
+          "path": "/k-g-005.mp3",
+          "description": {
+            "zh": "救救我",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-006",
+          "path": "/k-g-006.mp3",
+          "description": {
+            "zh": "我想做大家的妹妹啊，可以吗",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-007",
+          "path": "/k-g-007.mp3",
+          "description": {
+            "zh": "差不多该成为我的东西了吧",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-008",
+          "path": "/k-g-008.mp3",
+          "description": {
+            "zh": "nya nya nya nya nya",
+            "en": "",
+            "ja": ""
+          }
+      },
+      {
+        "name": "k-g-009",
+          "path": "/k-g-009.mp3",
+          "description": {
+            "zh": "kiss也可以哟",
+            "en": "",
+            "ja": ""
+          }
+      }]
+    },
+    {
+      "group_name": "loli",
+      "group_description": {
+        "zh": "萝莉彼方",
+        "en": "Loli",
+        "ja": "ロリかなたん"
+      },
+      "voice_list": [{
+        "name": "k-l-001",
+          "path": "/k-l-001.mp3",
+          "description": {
+            "zh": "音妹骂我",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-002",
+          "path": "/k-l-002.mp3",
+          "description": {
+            "zh": "生日歌（萝莉）",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-003",
+          "path": "/k-l-003.mp3",
+          "description": {
+            "zh": "欧尼酱Kimo",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-004",
+          "path": "/k-l-004.mp3",
+          "description": {
+            "zh": "明天也要和彼方玩哦",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-005",
+          "path": "/k-l-005.mp3",
+          "description": {
+            "zh": "感觉...不明所以了",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-006",
+          "path": "/k-l-006.mp3",
+          "description": {
+            "zh": "傻笑",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-l-007",
+          "path": "/k-l-007.mp3",
+          "description": {
+            "zh": "bilibili的叔叔都是变态吗",
+            "en": "",
+            "ja": ""
+          }
+      }]
+    },
+    {
+      "group_name": "imitate",
+      "group_description": {
+        "zh": "联动",
+        "en": "Coupling",
+        "ja": "コラボ"
+      },
+      "voice_list": [{
+        "name": "k-i-001",
+          "path": "/k-i-001.mp3",
+          "description": {
+            "zh": "我是桐生可可",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-002",
+          "path": "/k-i-002.mp3",
+          "description": {
+            "zh": "彼方碳今天也很可爱！",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-003",
+          "path": "/k-i-003.mp3",
+          "description": {
+            "zh": "彗酱前辈suki",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-004",
+          "path": "/k-i-004.mp3",
+          "description": {
+            "zh": "吶天龙党的各位现在是什么心情",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-005",
+          "path": "/k-i-005.mp3",
+          "description": {
+            "zh": "从以前开始就想和彗酱前辈结婚了！",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-006",
+          "path": "/k-i-006.mp3",
+          "description": {
+            "zh": "wtm!一起去买Tenga吧！",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-007",
+          "path": "/k-i-007.mp3",
+          "description": {
+            "zh": "早Peko",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-i-008",
+          "path": "/k-i-008.mp3",
+          "description": {
+            "zh": "Ahoy！我是宝钟海贼团团长，宝钟玛琳desu~",
+            "en": "",
+            "ja": ""
+          }
+      }]
+    },
+    {
+      "group_name": "punitiveSpeech",
+      "group_description": {
+        "zh": "惩罚台词",
+        "en": "Punitive Speech",
+        "ja": "罰ゲーム"
+      },
+      "voice_list": [{
+        "name": "k-p-001",
+          "path": "/k-p-001.mp3",
+          "description": {
+            "zh": "无能狂怒",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-002",
+          "path": "/k-o-002.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-003",
+          "path": "/k-o-003.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-004",
+          "path": "/k-o-004.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-005",
+          "path": "/k-o-005.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-006",
+          "path": "/k-o-006.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-007",
+          "path": "/k-o-007.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-008",
+          "path": "/k-o-008.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-009",
+          "path": "/k-o-009.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-010",
+          "path": "/k-o-010.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-011",
+          "path": "/k-o-011.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-012",
+          "path": "/k-o-012.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-013",
+          "path": "/k-o-013.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      },{
+        "name": "k-o-014",
+          "path": "/k-o-014.mp3",
+          "description": {
+            "zh": "那我能亲你吗(音妹Ver.)",
+            "en": "",
+            "ja": ""
+          }
+      }]
+    },
     {
       "group_name": "other",
       "group_description": {
         "zh": "其他",
-        "en": "Other",
+        "en": "Others",
         "ja": "その他"
       },
-      "voice_list": [
-        {
-          "name": "f-021",
-          "path": "f-021.mp3",
+      "voice_list": [{
+        "name": "k-o-001",
+          "path": "/k-o-001.mp3",
           "description": {
-            "zh": "马自立酱!哇!嗅嗅!好香!",
-            "en": "Matsuri Chan! Wow! Let me smell!",
-            "ja": "まつりちゃん!わい!スンスン!いい匂い!"
+            "zh": "永别了我的收益化",
+            "en": "",
+            "ja": ""
           }
-        }
-      ]
+      },{
+        "name": "k-o-002",
+          "path": "/k-o-002.mp3",
+          "description": {
+            "zh": "千年等一回",
+            "en": "",
+            "ja": ""
+          }
+      }]
     }
   ]
 }
