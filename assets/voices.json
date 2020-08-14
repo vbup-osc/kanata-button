@@ -222,86 +222,87 @@
         "ja": "ガチ視点"
       },
       "voice_list": [{
-        "name": "k-g-001",
+          "name": "k-g-001",
           "path": "/k-g-001.mp3",
           "description": {
             "zh": "绝赞喷嚏",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-002",
+        },
+        {
+          "name": "k-g-002",
           "path": "/k-g-002.mp3",
           "description": {
             "zh": "谢谢",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-003",
+        },
+        {
+          "name": "k-g-003",
           "path": "/k-g-003.mp3",
           "description": {
             "zh": "钉宫三连",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-004",
+        },
+        {
+          "name": "k-g-004",
           "path": "/k-g-004.mp3",
           "description": {
             "zh": "少女尖叫",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-005",
+        },
+        {
+          "name": "k-g-005",
           "path": "/k-g-005.mp3",
           "description": {
             "zh": "救救我",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-006",
+        },
+        {
+          "name": "k-g-006",
           "path": "/k-g-006.mp3",
           "description": {
             "zh": "我想做大家的妹妹啊，可以吗",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-007",
+        },
+        {
+          "name": "k-g-007",
           "path": "/k-g-007.mp3",
           "description": {
             "zh": "差不多该成为我的东西了吧",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-008",
+        },
+        {
+          "name": "k-g-008",
           "path": "/k-g-008.mp3",
           "description": {
             "zh": "nya nya nya nya nya",
             "en": "",
             "ja": ""
           }
-      },
-      {
-        "name": "k-g-009",
+        },
+        {
+          "name": "k-g-009",
           "path": "/k-g-009.mp3",
           "description": {
             "zh": "kiss也可以哟",
             "en": "",
             "ja": ""
           }
-      }]
+        }
+      ]
     },
     {
       "group_name": "loli",
@@ -312,60 +313,60 @@
       },
       "voice_list": [{
         "name": "k-l-001",
-          "path": "/k-l-001.mp3",
-          "description": {
-            "zh": "音妹骂我",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-001.mp3",
+        "description": {
+          "zh": "音妹骂我",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-002",
-          "path": "/k-l-002.mp3",
-          "description": {
-            "zh": "生日歌（萝莉）",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-002.mp3",
+        "description": {
+          "zh": "生日歌（萝莉）",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-003",
-          "path": "/k-l-003.mp3",
-          "description": {
-            "zh": "欧尼酱Kimo",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-003.mp3",
+        "description": {
+          "zh": "欧尼酱Kimo",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-004",
-          "path": "/k-l-004.mp3",
-          "description": {
-            "zh": "明天也要和彼方玩哦",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-004.mp3",
+        "description": {
+          "zh": "明天也要和彼方玩哦",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-005",
-          "path": "/k-l-005.mp3",
-          "description": {
-            "zh": "感觉...不明所以了",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-005.mp3",
+        "description": {
+          "zh": "感觉...不明所以了",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-006",
-          "path": "/k-l-006.mp3",
-          "description": {
-            "zh": "傻笑",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-l-006.mp3",
+        "description": {
+          "zh": "傻笑",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-l-007",
-          "path": "/k-l-007.mp3",
-          "description": {
-            "zh": "bilibili的叔叔都是变态吗",
-            "en": "",
-            "ja": ""
-          }
+        "path": "/k-l-007.mp3",
+        "description": {
+          "zh": "bilibili的叔叔都是变态吗",
+          "en": "",
+          "ja": ""
+        }
       }]
     },
     {
@@ -377,68 +378,68 @@
       },
       "voice_list": [{
         "name": "k-i-001",
-          "path": "/k-i-001.mp3",
-          "description": {
-            "zh": "我是桐生可可",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-001.mp3",
+        "description": {
+          "zh": "我是桐生可可",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-002",
-          "path": "/k-i-002.mp3",
-          "description": {
-            "zh": "彼方碳今天也很可爱！",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-002.mp3",
+        "description": {
+          "zh": "彼方碳今天也很可爱！",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-003",
-          "path": "/k-i-003.mp3",
-          "description": {
-            "zh": "彗酱前辈suki",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-003.mp3",
+        "description": {
+          "zh": "彗酱前辈suki",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-004",
-          "path": "/k-i-004.mp3",
-          "description": {
-            "zh": "吶天龙党的各位现在是什么心情",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-004.mp3",
+        "description": {
+          "zh": "吶天龙党的各位现在是什么心情",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-005",
-          "path": "/k-i-005.mp3",
-          "description": {
-            "zh": "从以前开始就想和彗酱前辈结婚了！",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-005.mp3",
+        "description": {
+          "zh": "从以前开始就想和彗酱前辈结婚了！",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-006",
-          "path": "/k-i-006.mp3",
-          "description": {
-            "zh": "wtm!一起去买Tenga吧！",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-006.mp3",
+        "description": {
+          "zh": "wtm!一起去买Tenga吧！",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-007",
-          "path": "/k-i-007.mp3",
-          "description": {
-            "zh": "早Peko",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-i-007.mp3",
+        "description": {
+          "zh": "早Peko",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-i-008",
-          "path": "/k-i-008.mp3",
-          "description": {
-            "zh": "Ahoy！我是宝钟海贼团团长，宝钟玛琳desu~",
-            "en": "",
-            "ja": ""
-          }
+        "path": "/k-i-008.mp3",
+        "description": {
+          "zh": "Ahoy！我是宝钟海贼团团长，宝钟玛琳desu~",
+          "en": "",
+          "ja": ""
+        }
       }]
     },
     {
@@ -450,116 +451,390 @@
       },
       "voice_list": [{
         "name": "k-p-001",
-          "path": "/k-p-001.mp3",
-          "description": {
-            "zh": "无能狂怒",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-002",
-          "path": "/k-o-002.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-003",
-          "path": "/k-o-003.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-004",
-          "path": "/k-o-004.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-005",
-          "path": "/k-o-005.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-006",
-          "path": "/k-o-006.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-007",
-          "path": "/k-o-007.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-008",
-          "path": "/k-o-008.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-009",
-          "path": "/k-o-009.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-010",
-          "path": "/k-o-010.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-011",
-          "path": "/k-o-011.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-012",
-          "path": "/k-o-012.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-013",
-          "path": "/k-o-013.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
-      },{
-        "name": "k-o-014",
-          "path": "/k-o-014.mp3",
-          "description": {
-            "zh": "那我能亲你吗(音妹Ver.)",
-            "en": "",
-            "ja": ""
-          }
+        "path": "/k-p-001.mp3",
+        "description": {
+          "zh": "无能狂怒",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-002",
+        "path": "/k-p-002.mp3",
+        "description": {
+          "zh": "那我能亲你吗(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-003",
+        "path": "/k-p-003.mp3",
+        "description": {
+          "zh": "那我能亲你吗(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-004",
+        "path": "/k-p-004.mp3",
+        "description": {
+          "zh": "住手！注射那么大的针啊 好痛啊",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-005",
+        "path": "/k-p-005.mp3",
+        "description": {
+          "zh": "把粥吹凉一点吃掉吧(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-006",
+        "path": "/k-p-006.mp3",
+        "description": {
+          "zh": "把粥吹凉一点来喂我吧(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-007",
+        "path": "/k-p-007.mp3",
+        "description": {
+          "zh": "不愧是被我选中的骑士(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-008",
+        "path": "/k-p-008.mp3",
+        "description": {
+          "zh": "不愧是被我选中的骑士呢(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-009",
+        "path": "/k-p-009.mp3",
+        "description": {
+          "zh": "不要啊 这样很痛啊(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-010",
+        "path": "/k-p-010.mp3",
+        "description": {
+          "zh": "不要离开我 呆在我身边 不要离开我(音妹.ver)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-011",
+        "path": "/k-p-011.mp3",
+        "description": {
+          "zh": "不要再胡闹了！不管怎么想都是我比较可爱！(音妹.ver)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-012",
+        "path": "/k-p-012.mp3",
+        "description": {
+          "zh": "不要再胡闹了!不管怎么想都是我比较帅啊！(天哥.ver)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-013",
+        "path": "/k-p-013.mp3",
+        "description": {
+          "zh": "不要走 呆在我身边 不要走(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-014",
+        "path": "/k-p-014.mp3",
+        "description": {
+          "zh": "但是 你最喜欢的是我对吧(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-015",
+        "path": "/k-p-015.mp3",
+        "description": {
+          "zh": "但是 你最喜欢我了吧(天哥ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-016",
+        "path": "/k-p-016.mp3",
+        "description": {
+          "zh": "搞砸的话就杀了你，喵~(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-017",
+        "path": "/k-p-017.mp3",
+        "description": {
+          "zh": "搞砸的话就杀了你，喵~(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-018",
+        "path": "/k-p-018.mp3",
+        "description": {
+          "zh": "既然说喜欢我，那我就粘着你不放了(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-019",
+        "path": "/k-p-019.mp3",
+        "description": {
+          "zh": "快察觉到啊！我的心意",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-020",
+        "path": "/k-p-020.mp3",
+        "description": {
+          "zh": "明明和我呆在一起就很开心(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-021",
+        "path": "/k-p-021.mp3",
+        "description": {
+          "zh": "明明和我呆在一起就很开心(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-022",
+        "path": "/k-p-022.mp3",
+        "description": {
+          "zh": "明明我的攻势不止如此(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-023",
+        "path": "/k-p-023.mp3",
+        "description": {
+          "zh": "明明我的攻势不止如此(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-024",
+        "path": "/k-p-024.mp3",
+        "description": {
+          "zh": "呐，亲我(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-025",
+        "path": "/k-p-025.mp3",
+        "description": {
+          "zh": "呐，亲我(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-026",
+        "path": "/k-p-026.mp3",
+        "description": {
+          "zh": "呐，我们来互相擦背吧，毕竟我自己来的话碰不到，而且，我也不想你的OO被那种家伙碰到(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-027",
+        "path": "/k-p-027.mp3",
+        "description": {
+          "zh": "请多指教喵(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-028",
+        "path": "/k-p-028.mp3",
+        "description": {
+          "zh": "请多指教喵(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-029",
+        "path": "/k-p-029.mp3",
+        "description": {
+          "zh": "什么叫，身为我的东西，就要烙上我的印记(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-030",
+        "path": "/k-p-030.mp3",
+        "description": {
+          "zh": "所以，成为我独占的那个他可以吗(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-031",
+        "path": "/k-p-031.mp3",
+        "description": {
+          "zh": "所以，做只属于我的女人吧(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-032",
+        "path": "/k-p-032.mp3",
+        "description": {
+          "zh": "我 躺床上的时候最可爱哦(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-033",
+        "path": "/k-p-033.mp3",
+        "description": {
+          "zh": "我和你同床的时候是最帅的哦(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-034",
+        "path": "/k-p-034.mp3",
+        "description": {
+          "zh": "我很开心，因为知道你的初吻是我的(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-035",
+        "path": "/k-p-035.mp3",
+        "description": {
+          "zh": "我很开心，因为知道你的初吻是我的(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-036",
+        "path": "/k-p-036.mp3",
+        "description": {
+          "zh": "我喜欢你(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-037",
+        "path": "/k-p-037.mp3",
+        "description": {
+          "zh": "我喜欢你(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-038",
+        "path": "/k-p-038.mp3",
+        "description": {
+          "zh": "我想独占你(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-039",
+        "path": "/k-p-039.mp3",
+        "description": {
+          "zh": "我想独占你(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-040",
+        "path": "/k-p-040.mp3",
+        "description": {
+          "zh": "我想要的，只有你(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-041",
+        "path": "/k-p-041.mp3",
+        "description": {
+          "zh": "我只想要，你把我，当男人看(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-042",
+        "path": "/k-p-042.mp3",
+        "description": {
+          "zh": "我只想要。你把我，当女性看待(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-043",
+        "path": "/k-p-043.mp3",
+        "description": {
+          "zh": "因为你，是我找到的蓝蔷薇。开玩笑的(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-044",
+        "path": "/k-p-044.mp3",
+        "description": {
+          "zh": "因为你，是我找到的蓝蔷薇。开玩笑的(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-045",
+        "path": "/k-p-045.mp3",
+        "description": {
+          "zh": "再胡闹的话，我就要亲你了哦(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-046",
+        "path": "/k-p-046.mp3",
+        "description": {
+          "zh": "再胡闹的话，我就要亲你了哦(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+        "name": "k-p-047",
+        "path": "/k-p-047.mp3",
+        "description": {
+          "zh": "这次不会让你从我身边逃走了，别想逃了(天哥Ver.)",
+          "en": "",
+          "ja": ""
+        }
+      }, {
+
+        "name": "k-p-048",
+        "path": "/k-p-048.mp3",
+        "description": {
+          "zh": "这次不会让你从我身边逃走了，不要从我身边逃走(音妹Ver.)",
+          "en": "",
+          "ja": ""
+        }
+
       }]
     },
     {
@@ -571,20 +846,20 @@
       },
       "voice_list": [{
         "name": "k-o-001",
-          "path": "/k-o-001.mp3",
-          "description": {
-            "zh": "永别了我的收益化",
-            "en": "",
-            "ja": ""
-          }
-      },{
+        "path": "/k-o-001.mp3",
+        "description": {
+          "zh": "永别了我的收益化",
+          "en": "",
+          "ja": ""
+        }
+      }, {
         "name": "k-o-002",
-          "path": "/k-o-002.mp3",
-          "description": {
-            "zh": "千年等一回",
-            "en": "",
-            "ja": ""
-          }
+        "path": "/k-o-002.mp3",
+        "description": {
+          "zh": "千年等一回",
+          "en": "",
+          "ja": ""
+        }
       }]
     }
   ]
