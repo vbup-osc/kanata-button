@@ -37,7 +37,7 @@ export default {
         property: 'og:description',
         content: '新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://fubuki.moe/img/og_common.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.jpg' },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@lonely_ion' }
     ],
@@ -125,7 +125,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://fubuki.moe',
+    hostname: 'https://kanata.club',
     routes: [
       {
         url: '/',
@@ -162,35 +162,6 @@ export default {
           loader: 'eslint-loader',
           exclude: /(node_modules)/
         });
-      }
-    }
-  },
-  hooks: {
-    generate: {
-      // eslint-disable-next-line no-unused-vars
-      done(generator) {
-        if (process.env.IS_VERCEL) {
-          const axios = require('axios').default;
-          const dayjs = require('dayjs');
-          const utc = require('dayjs/plugin/utc');
-          dayjs.extend(utc);
-
-          console.log('Started triggering actions, build time', dayjs.utc().format());
-          axios
-            .post(
-              'https://api.github.com/repos/oruyanke/kanata-button/dispatches',
-              {
-                event_type: 'Vercel Build ' + dayjs.utc().format()
-              },
-              {
-                headers: {
-                  Accept: 'application/vnd.github.everest-preview+json',
-                  Authorization: 'token ' + process.env.GH_TOKEN
-                }
-              }
-            )
-            .then(r => console.log(r.statusText));
-        }
       }
     }
   }
