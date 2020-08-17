@@ -85,7 +85,7 @@
     >
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
       <v-toolbar-title v-text="$t('site.title')" />
-      <!-- <v-img src="/img/oruyanke_transparent.png" style="max-width: 24px; margin-left: 6px;" /> -->
+      <v-img src="/img/header.png" style="max-width: 30px; margin-left: 6px;" />
       <v-spacer />
       <v-tooltip bottom>
         <template v-slot:activator="{ on }">
@@ -140,7 +140,7 @@
             </span>
             <v-btn
               icon
-              href="https://github.com/oruyanke/fubuki-button"
+              href="https://github.com/oruyanke/kanata-button"
               target="_blank"
               style="vertical-align: middle;"
               rel="noreferrer"
@@ -157,8 +157,8 @@
           <div>
             <p>{{ $t('site.footer.content') }}</p>
             <p v-if="$i18n.locale === 'zh'" style="font-size: 12px;">
-              <a href="https://icp.gov.moe" target="_blank" rel="noreferrer">萌ICP备 </a>
-              <a href="https://icp.gov.moe/?keyword=20201005" target="_blank" rel="noreferrer"> 20201005号</a>
+              <!-- <a href="https://icp.gov.moe" target="_blank" rel="noreferrer">萌ICP备 </a>
+              <a href="https://icp.gov.moe/?keyword=20201005" target="_blank" rel="noreferrer"> 20201005号</a> -->
             </p>
           </div>
         </div>
@@ -181,11 +181,12 @@ $blur-function: blur(3px);
     font-family: $zh-body-fonts;
   }
 }
+// header颜色
 .gradient-header-light {
-  background-image: linear-gradient(120deg, #1e64aa 0%, #55c8ff 100%) !important;
+  background-image: linear-gradient(120deg, #1a237e 0%, #5c6bc0 100%) !important;
 }
 .gradient-header-dark {
-  background-image: linear-gradient(120deg, #003c78 0%, #0087c8 100%) !important;
+  background-image: linear-gradient(120deg, #5b7e91 0%, #44617b 100%) !important;
 }
 .nav-drawer-img {
   width: auto;
@@ -260,17 +261,17 @@ export default {
         {
           icon: '/img/youtube-fill.svg',
           title: 'Youtube',
-          to: 'https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg?sub_confirmation=1'
+          to: 'https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg'
         },
         {
           icon: '/img/twitter-fill.svg',
           title: 'Twitter',
-          to: 'https://twitter.com/shirakamifubuki'
+          to: 'https://twitter.com/amanekanatach'
         },
         {
           icon: '/img/bilibili-fill.svg',
           title: 'Bilibili',
-          to: 'https://space.bilibili.com/332704117'
+          to: 'https://space.bilibili.com/491474048'
         }
       ],
       external_cn: [

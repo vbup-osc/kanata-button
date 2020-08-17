@@ -6,7 +6,7 @@ const expect = require('chai').expect;
 describe('Index', function () {
   this.timeout(300000);
   it('should render properly', async function () {
-    await driver.get('https://fubuki.moe/');
+    await driver.get('https://kanata.club/');
 
     //App Bar title
     const title = await driver.findElement(By.css('.v-toolbar__title')).getText();

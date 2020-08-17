@@ -1,34 +1,34 @@
 # フブキボタン - 白上フブキのボイスボタン
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/fubuki-button)
-![Build](https://img.shields.io/github/workflow/status/oruyanke/fubuki-button/FBK-BTN-NG-CI)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/fubuki-button)
-![Starts](https://img.shields.io/github/stars/oruyanke/fubuki-button)
+![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
+![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button/FBK-BTN-NG-CI)
+![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button)
+![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button)
 
-README: [中文](https://github.com/oruyanke/fubuki-button/blob/master/README.md) | **日本語** | [English](https://github.com/oruyanke/fubuki-button/blob/master/README.EN.md)
+README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | **日本語** | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
 
-> 新しい白上フブキのボイスボタン。私たちの目標は白上フブキの総合的なファンサイトを作ることです。
+> 新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー
 
-ホームページ https://fubuki.moe
+ホームページ https://kanata.club
 
 関連リンク:
 
-* [白上フブキのYouTubeチャンネル](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
-* [白上フブキのBilibiliチャンネル](https://space.bilibili.com/332704117)
-* [白上フブキのTwitter](https://twitter.com/shirakamifubuki)
+* [天音かなたのYouTubeチャンネル](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
+* [天音かなたのBilibiliチャンネル](https://space.bilibili.com/491474048)
+* [天音かなたのTwitter](https://twitter.com/amanekanatach)
 
 ## 計画中の機能
 
-- fubukitap([mikutap](https://aidn.jp/mikutap/) に類似)
+- kanatatap([mikutap](https://aidn.jp/mikutap/) に類似)
 - 生放送や動画のカレンダーを表示
 - フブキのスタンプ/ミーム
 - YouTube/Bilibiliのデータを表示
 
 ## このプロジェクトへの貢献(コントリビュート)
 
-GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([voice@fubuki.moe](mailto:voice@fubuki.moe))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
+GitHubの開発に直接参加する方法が分からない場合は、素材や意見を直接以下のメールアドレスに送信してください。([開発者メールへ](mailto:13626941473@qq.com))。またメールの中にタイトル、内容及びあなたのID（Bilibili、Twitterやその他）を記述してください。そうすることで私達は下のコントリビューターリストにあなたの名前を掲載することができます。
 
-もしくは素材や意見をGitHubの[Issues](https://github.com/copperion/fubuki-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
+もしくは素材や意見をGitHubの[Issues](https://github.com/copperion/kanata-button/issues) ページに送ることもできます。メールの場合と同じようにタイトルと内容を記述してください。
 
 もしGitHubでの開発方法を知っている場合は、プロジェクトをフォークして変更してください。変更が完了したら、プルリクエストしてください。各項目の編集に関しては以下に記述されています。
 
@@ -42,7 +42,7 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 ### 翻訳
 
-日本語と英語への翻訳が必要です！
+日本語と英語の翻訳が必要です！
 
 ボタンなどのテキストの翻訳は `assets/locales/` 内に各言語に対応した3つの.jsonファイルがあります。
 
@@ -69,33 +69,35 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 オーディオクリップ：
 
-- Bilibili [孤单离子](https://space.bilibili.com/7564991)
-- Bilibili [清流ht](https://space.bilibili.com/22311554)
-- Bilibili [绯月天则](https://space.bilibili.com/1592713)
-- Bilibili [hanyuu](https://m.bilibili.com/space/356250024)
-- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520)
+- Bilibili 风之门
+- Bilibili キルケー
+- Bilibili 魂喵
 
 翻訳：
 
-- GitHub [Dakumasu](https://github.com/dakuamsu)
-- GitHub [Yourein](https://github.com/Yourein)
-- Twitter [nekoy0212anagi](https://twitter.com/nekoy0212anagi)
-- GitHub [Emmmer](https://github.com/ShirakamiEmmmer)
+- Bilibili ★AYO★
+- Bilibili 森绮
+- Bilibili ものもー
+- Bilibili 鱼板
+- GitHub [茶目](https://github.com/Cyame)
+
+イラスト：
+
+- Bilibili [Dazeroyuu](https://space.bilibili.com/463153)
 
 特別協力：
 
 - [VTuber Music](https://vtbmusic.com/)
-- Bilibili [吹雪的猫咪茶铺](https://space.bilibili.com/431210892/)
-- Bilibili [白上吹雪周报](https://space.bilibili.com/487763794)
-- Bilibili [戌神沁音的手指面包店](https://space.bilibili.com/45070033)
-- Bilibili [亡音ちゃん](https://space.bilibili.com/2613724)
-- そして、GitHubでこのプロジェクトに参加した以下の人々
+- - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
+- Bilibili [Amane Kanata Bowl Factory](https://space.bilibili.com/54139629)
+- 天音梧桐
+- そして、GitHubでこのプロジェクトに参加した以下の方々
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
 
 ## LICENCE
 
-プログラム： [MIT License](https://github.com/oruyanke/fubuki-button/blob/master/LICENSE)
+プログラム： [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
 
 音声: [Hololive 二次创作条款](https://www.hololive.tv/terms)
 

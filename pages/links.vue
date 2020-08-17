@@ -25,8 +25,8 @@ export default {
     links() {
       return [
         {
-          title: this.$t('links.fubuki'),
-          url: 'https://ookamimio.org',
+          title: this.$t('links.kanata'),
+          url: 'https://kanata.club',
           emoji: '🌽',
           color_class: 'grey darken-3'
         },

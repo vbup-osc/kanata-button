@@ -1,13 +1,13 @@
 {
   "site": {
     "title": "Kanata Button",
-    "description": "Brand-new voice buttons for Shirakami Fubuki, we are aimming at building a comprehensive project related to Shirakami Fubuki.\n",
+    "description": "Brand-new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.\n",
     "index": "Home",
     "about": "About",
     "switch_dark_mode": "Switch Dark Mode",
     "switch_language": "Switch Language",
     "footer": {
-      "lonely_ion": "Lonely_ion",
+      "lonely_ion": "AmaneKanata Bowl Factory",
       "oruyanke": "Oruyanke Team",
       "content": "This site is a fan work and is not associated with the Hololive official. For staff and more information, please see \"About\" page."
     }
@@ -28,8 +28,8 @@
     "overlap": "Overlap Mode",
     "random": "Random Mode",
     "repeat": "Repeat Mode",
-    "full_name": "Shirakami Fubuki",
-    "overlap_title": "Multiple Fubuki Voices"
+    "full_name": "Amane Kanata",
+    "overlap_title": "Multiple Kanata Voices"
   },
   "dev": {
     "title": "Development Mode",
@@ -40,7 +40,7 @@
     "title": "Links",
     "vm": "VTuber Music",
     "collection": "VTuber Buttons Collection",
-    "fubuki": "Fubuki Button",
+    "kanata": "Kanata Button",
     "mio": "Mio Button",
     "korone": "Korone Button",
     "okayu": "Okayu Button",

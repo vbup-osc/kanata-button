@@ -8,7 +8,7 @@ const commit_id = get_commit();
 
 // Input capabilities
 const capabilities = {
-  project: 'fubuki-button',
+  project: 'kanata-button',
   build: commit_id,
   os_version: '13',
   device: 'iPhone 11 Pro',

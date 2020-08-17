@@ -9,8 +9,7 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 > 新生彼方碳按钮，绝赞持续建设中~
 
-<!-- 项目地址： https://fubuki.moe -->
-项目临时部署在Gitee Pages中： https://cyame.gitee.io/kanata-button
+项目主页： https://kanata.club
 
 相关链接:
 
@@ -20,14 +19,14 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 <!-- ## 计划中的特性
 
-- fubukitap(类似[mikutap](https://aidn.jp/mikutap/))
+- kanatatap(类似[mikutap](https://aidn.jp/mikutap/))
 - 直播/活动日历
 - 吹雪表情包合集/搜索
 - YouTube/Bilibili数据可视化 -->
 
 ## 参与完善本项目
 
-如果您不知道如何直接参与GitHub开发，可以直接将素材或意见建议发送到[voice@fubuki.moe](mailto:voice@fubuki.moe)，带上标题、内容以及您的ID（Bilibili、Twitter等均可），贡献者名单将会有您的名字。
+如果您不知道如何直接参与GitHub开发，可以直接将素材或意见建议发送到[开发者邮箱](mailto:13626941473@qq.com)，带上标题、内容以及您的ID（Bilibili、Twitter等均可），贡献者名单将会有您的名字。
 
 当然您也可以发在 [Issues](https://github.com/oruyanke/kanata-button/issues) ，同样也请带上标题和内容。
 
@@ -63,28 +62,27 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 - GitHub [孤单离子](https://github.com/lonelyion)
 - GitHub [Asrui Morus](https://github.com/Morxi)
 
-维护|二次开发：
+维护 | 二次开发：
 
 - GitHub [茶目](https://github.com/Cyame)
 
 音频剪辑：
 
-- 风之门
-- キルケー
-- 魂喵
-<!-- - Bilibili [孤单离子](https://space.bilibili.com/7564991)
-- Bilibili [清流ht](https://space.bilibili.com/22311554)
-- Bilibili [绯月天则](https://space.bilibili.com/1592713)
-- Bilibili [hanyuu](https://m.bilibili.com/space/356250024)
-- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520) -->
+- Bilibili 风之门
+- Bilibili キルケー
+- Bilibili 魂喵
 
 翻译：
 
-- GitHub [Dakumasu](https://github.com/dakuamsu)
-- GitHub [Yourein](https://github.com/Yourein)
-- Twitter [nekoy0212anagi](https://twitter.com/nekoy0212anagi)
-- GitHub [Emmmer](https://github.com/ShirakamiEmmmer)
+- Bilibili ★AYO★
+- Bilibili 森绮
+- Bilibili ものもー
+- Bilibili 鱼板
 - GitHub [茶目](https://github.com/Cyame)
+
+画师：
+
+- Bilibili [Dazeroyuu](https://space.bilibili.com/463153)
 
 特别感谢：
 
@@ -94,13 +92,13 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 - 天音梧桐
 - 以及以下在GitHub参与过项目的各位
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
 
 ## 协议
 
 音频部分: [Hololive 二次创作条款](https://www.hololive.tv/terms) (只有日语).
 
-其他部分：[MIT License](https://github.com/oruyanke/fubuki-button/blob/master/LICENSE)
+其他部分：[MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
 
 本项目为爱好者作品，和 Hololive 官方没有关联
 

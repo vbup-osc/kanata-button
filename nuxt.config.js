@@ -28,18 +28,18 @@ export default {
         content:
           'かなたんボタン,Kanata BUTTON,彼方碳按钮,hololive,Amane Kanata,天音かなた,かなた,かなたん,彼方,彼方碳,天哥,音妹,汤达人,语音按钮,ボイスボタン'
       },
-      { hid: 'og:site_name', property: 'og:site_name', content: 'フブキボタン' },
+      { hid: 'og:site_name', property: 'og:site_name', content: 'かなたんボタン' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://fubuki.moe' },
-      { hid: 'og:title', property: 'og:title', content: 'フブキボタン' },
+      { hid: 'og:url', property: 'og:url', content: 'https://kanata.club' },
+      { hid: 'og:title', property: 'og:title', content: 'かなたんボタン' },
       {
         hid: 'og:description',
         property: 'og:description',
         content: '新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.jpg' },
+      { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.png' },
       { name: 'twitter:card', content: 'summary_large_image' },
-      { name: 'twitter:site', content: '@lonely_ion' }
+      { name: 'twitter:site', content: '@Cyame' }
     ],
     link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
   },
@@ -76,22 +76,23 @@ export default {
    */
   vuetify: {
     customVariables: ['~/assets/variables.scss'],
+    // 主题基础颜色
     theme: {
       dark: false,
       themes: {
         light: {
-          primary: colors.blue.base,
-          secondary: colors.grey.darken4,
-          accent: colors.blue.lighten2,
+          primary: colors.lightBlue.base,
+          secondary: colors.grey.darken2,
+          accent: colors.lightBlue.base,
           error: colors.deepOrange.base,
           warning: colors.orange.base,
           info: colors.blueGrey.base,
           success: colors.teal.base
         },
         dark: {
-          primary: colors.blue.darken3,
+          primary: colors.lightBlue.darken3,
           secondary: colors.grey.darken4,
-          accent: colors.lightBlue.darken4,
+          accent: colors.lightBlue.darken3,
           error: colors.deepOrange.accent4,
           warning: colors.amber.base,
           info: colors.teal.lighten1,

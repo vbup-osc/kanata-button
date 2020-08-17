@@ -197,9 +197,10 @@ export default {
       };
     },
     voice_button_color() {
+      // 按钮颜色
       return {
         'light-blue darken-4': this.$vuetify.theme.dark,
-        'blue lighten-2 white--text': !this.$vuetify.theme.dark
+        'indigo lighten-2 white--text': !this.$vuetify.theme.dark
       };
     },
     fab_icon() {
@@ -209,7 +210,7 @@ export default {
       return [this.$vuetify.theme.dark ? 'indigo darken-1' : 'white'];
     },
     speed_dial_color: function () {
-      return [this.$vuetify.theme.dark ? 'cyan darken-1' : 'cyan lighten-2'];
+      return [this.$vuetify.theme.dark ? 'indigo' : 'indigo accent-1'];
     },
     current_locale() {
       return this.$i18n.locale;
@@ -275,7 +276,7 @@ export default {
               title: item.description[that.current_locale],
               artist: that.$t('control.full_name'),
               album: that.$t('site.title') + '(^・ω・^§)',
-              artwork: [{ src: '/img/media-cover.jpg', sizes: '128x128', type: 'image/jpeg' }]
+              artwork: [{ src: '/img/media-cover.png', sizes: '128x128', type: 'image/jpeg' }]
             };
             navigator.mediaSession.metadata = new window.MediaMetadata(meta);
           }
@@ -292,7 +293,7 @@ export default {
             title: that.$t('control.overlap_title'),
             artist: that.$t('control.full_name'),
             album: that.$t('site.title') + '(^・ω・^§)',
-            artwork: [{ src: '/img/media-cover.jpg', sizes: '128x128', type: 'image/jpeg' }]
+            artwork: [{ src: '/img/media-cover.png', sizes: '128x128', type: 'image/jpeg' }]
           };
           navigator.mediaSession.metadata = new window.MediaMetadata(metadata);
         }
@@ -341,7 +342,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title'),
-      link: [{ rel: 'canonical', href: 'https://fubuki.moe' }]
+      link: [{ rel: 'canonical', href: 'https://kanata.club' }]
     };
   }
 };

@@ -1,4 +1,4 @@
-# Fubuki-Button - Amane Kanata's Voice Button
+# Kanata-Button - Amane Kanata's Voice Button
 
 ![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
 ![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button/FBK-BTN-NG-CI)
@@ -9,24 +9,24 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 > Brand new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.
 
-Temperory Project Homepage (still in development): https://cyame.gitee.io/kanata-button
+Homepage: https://kanata.club
 
 Related Links:
 
-* [Amane Kanata's Youtube Channel](https://www.youtube.com/channel/UCdn5BQ06XqgXoAxIhbqw5Rg)
-* [Amane Kanata's Bilibili Channel](https://space.bilibili.com/332704117)
-* [Amane Kanata's Twitter](https://twitter.com/shirakamikanata)
+* [Amane Kanata's Youtube Channel](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
+* [Amane Kanata's Bilibili Channel](https://space.bilibili.com/491474048)
+* [Amane Kanata's Twitter](https://twitter.com/amanekanatach)
 
 <!-- ## Planning to do -->
 
 <!-- - kanatatap(Similar to [mikutap](https://aidn.jp/mikutap/))
 - Calender of lives / activities
-- Memes for Fubuki
+- Memes for Kanata
 - Data visualization of Youtube / Bilibili -->
 
 ## Contributing
 
-If you don't know how to participate on GitHub, you can directly send voice clips or suggestions to [voice@kanata.moe](mailto:voice@kanata.moe) with title, content and your social ID(Twitter, Bilibili or so on). We will add your ID to the contributors list below.
+If you don't know how to participate on GitHub, you can directly send voice clips or suggestions to [Developer Email](mailto:13626941473@qq.com) with title, content and your social ID(Twitter, Bilibili or so on). We will add your ID to the contributors list below.
 
 Also you can submit [Issues](https://github.com/copperion/kanata-button/issues) to upload audio clips.
 
@@ -75,25 +75,31 @@ Sub-Development & Operation:
 
 Audio Editors:
 
-<!-- - Bilibili [孤单离子](https://space.bilibili.com/7564991)
-- Bilibili [清流ht](https://space.bilibili.com/22311554)
-- Bilibili [绯月天则](https://space.bilibili.com/1592713)
-- Bilibili [hanyuu](https://m.bilibili.com/space/356250024)
-- Bilibili [蓝颜知渡](https://space.bilibili.com/378488520) -->
+- Bilibili 风之门
+- Bilibili キルケー
+- Bilibili 魂喵
 
 Translation:
 
-- GitHub [Dakumasu](https://github.com/dakuamsu)
-- GitHub [Yourein](https://github.com/Yourein)
-- Twitter [nekoy0212anagi](https://twitter.com/nekoy0212anagi)
-- GitHub [Emmmer](https://github.com/ShirakamiEmmmer)
+- Bilibili ★AYO★
+- Bilibili 森绮
+- Bilibili ものもー
+- Bilibili 鱼板
+- GitHub [茶目](https://github.com/Cyame)
+
+Illust:
+
+- Bilibili [Dazeroyuu](https://space.bilibili.com/463153)
 
 Special Thanks to:
 
 - [VTuber Music](https://vtbmusic.com/)
+- - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
+- Bilibili [Amane Kanata Bowl Factory](https://space.bilibili.com/54139629)
+- 天音梧桐
 - And those who contributed to this project on GitHub
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
 
 ## LICENCE
 

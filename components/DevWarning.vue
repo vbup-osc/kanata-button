@@ -35,7 +35,7 @@ export default {
   },
   methods: {
     return_to_official() {
-      window.location.href = 'https://fubuki.moe';
+      window.location.href = 'https://kanata.club';
     }
   }
 };
