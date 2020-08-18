@@ -1,9 +1,8 @@
 # Kanata-Button - Amane Kanata's Voice Button
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
-![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button/FBK-BTN-NG-CI)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button)
+![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
 
 README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | **English**
 
@@ -17,12 +16,6 @@ Related Links:
 * [Amane Kanata's Bilibili Channel](https://space.bilibili.com/491474048)
 * [Amane Kanata's Twitter](https://twitter.com/amanekanatach)
 
-<!-- ## Planning to do -->
-
-<!-- - kanatatap(Similar to [mikutap](https://aidn.jp/mikutap/))
-- Calender of lives / activities
-- Memes for Kanata
-- Data visualization of Youtube / Bilibili -->
 
 ## Contributing
 
@@ -95,7 +88,7 @@ Special Thanks to:
 
 - [VTuber Music](https://vtbmusic.com/)
 - - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
-- Bilibili [Amane Kanata Bowl Factory](https://space.bilibili.com/54139629)
+- Bilibili [AmaneKanata Pottery Factory](https://space.bilibili.com/54139629)
 - [天音梧桐](https://space.bilibili.com/31565151)
 - And those who contributed to this project on GitHub
 

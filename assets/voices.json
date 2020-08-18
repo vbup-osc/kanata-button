@@ -892,27 +892,27 @@
           "name": "k-t-001",
           "path": "/k-t-001.mp3",
           "description": {
-            "zh": "自我介绍（活泼ver）",
-            "ja": "自己紹介（明るい）",
-            "en": "(sprightly)Self Introduction"
+            "zh": "开场白（活泼ver）",
+            "ja": "前置き（明るい）",
+            "en": "(sprightly)Greetings"
           }
         },
         {
           "name": "k-t-002",
           "path": "/k-t-002.mp3",
           "description": {
-            "zh": "自我介绍（低声ver）",
-            "ja": "自己紹介（低い声）",
-            "en": "(Low-voice)Self Introduction"
+            "zh": "开场白（低声ver）",
+            "ja": "前置き（低い声）",
+            "en": "(Low-voice)Greetings"
           }
         },
         {
           "name": "k-t-003",
           "path": "/k-t-003.mp3",
           "description": {
-            "zh": "自我介绍",
-            "ja": "自己紹介",
-            "en": "Self Introduction"
+            "zh": "开场白",
+            "ja": "前置き",
+            "en": "Greetings"
           }
         },
         {

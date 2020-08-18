@@ -1,9 +1,8 @@
 # 彼方碳按钮 / KANATA-BUTTON
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
-![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button)
+![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
 
 README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
 

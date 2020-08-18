@@ -1,9 +1,8 @@
-# フブキボタン - 白上フブキのボイスボタン
+# かなたんボタン - 天音かなたのボイスボタン
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button)
-![Build](https://img.shields.io/github/workflow/status/oruyanke/kanata-button/FBK-BTN-NG-CI)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button)
+![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
 
 README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | **日本語** | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
 
@@ -19,9 +18,9 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 ## 計画中の機能
 
-- kanatatap([mikutap](https://aidn.jp/mikutap/) に類似)
+<!-- - kanatatap([mikutap](https://aidn.jp/mikutap/) に類似) -->
 - 生放送や動画のカレンダーを表示
-- フブキのスタンプ/ミーム
+<!-- - フブキのスタンプ/ミーム -->
 - YouTube/Bilibiliのデータを表示
 
 ## このプロジェクトへの貢献(コントリビュート)
@@ -88,8 +87,8 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 特別協力：
 
 - [VTuber Music](https://vtbmusic.com)
-- - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
-- Bilibili [Amane Kanata Bowl Factory](https://space.bilibili.com/54139629)
+- Bilibili [天音かなたオフィシャル](https://space.bilibili.com/491474048)
+- Bilibili [天音彼方陶芸工場](https://space.bilibili.com/54139629)
 - [天音梧桐](https://space.bilibili.com/31565151)
 - そして、GitHubでこのプロジェクトに参加した以下の方々
 
