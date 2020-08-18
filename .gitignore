@@ -91,3 +91,9 @@ sw.*
 *.swp
 
 .vercel
+
+utils/voice-index-generator/__pycache__
+utils/voice-index-generator/build
+utils/voice-index-generator/dist
+utils/voice-index-generator/format.spec
+utils/voice-index-generator/autogen-voices.json

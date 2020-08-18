@@ -75,9 +75,9 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 翻译：
 
 - Bilibili ★AYO★
-- Bilibili 森绮
-- Bilibili ものもー
-- Bilibili 鱼板
+- Bilibili [森绮](https://space.bilibili.com/6140610)
+- Bilibili [ものもー](https://space.bilibili.com/2921731)
+- Bilibili [鱼板](https://space.bilibili.com/39261924)
 - GitHub [茶目](https://github.com/Cyame)
 
 画师：
@@ -89,7 +89,7 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 - [VTuber Music](https://vtbmusic.com/)
 - Bilibili [天音彼方Official](https://space.bilibili.com/491474048)
 - Bilibili [天音彼方陶碗工厂](https://space.bilibili.com/54139629)
-- 天音梧桐
+- [天音梧桐](https://space.bilibili.com/31565151)
 - 以及以下在GitHub参与过项目的各位
 
 [![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)

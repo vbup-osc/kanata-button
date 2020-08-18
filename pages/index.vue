@@ -234,7 +234,6 @@ export default {
   methods: {
     async fetch_live_data() {
       const query_url = 'https://api.konkon.icu/v1/live';
-      // TODO
       const channel = 29; // HoloAPI ID
       this.$axios
         .get(query_url, { params: { channel_id: channel } })
@@ -292,7 +291,7 @@ export default {
           const metadata = {
             title: that.$t('control.overlap_title'),
             artist: that.$t('control.full_name'),
-            album: that.$t('site.title') + '(^・ω・^§)',
+            album: that.$t('site.title'),
             artwork: [{ src: '/img/media-cover.png', sizes: '128x128', type: 'image/jpeg' }]
           };
           navigator.mediaSession.metadata = new window.MediaMetadata(metadata);

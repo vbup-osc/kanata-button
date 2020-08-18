@@ -76,9 +76,9 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 翻訳：
 
 - Bilibili ★AYO★
-- Bilibili 森绮
-- Bilibili ものもー
-- Bilibili 鱼板
+- Bilibili [森绮](https://space.bilibili.com/6140610)
+- Bilibili [ものもー](https://space.bilibili.com/2921731)
+- Bilibili [鱼板](https://space.bilibili.com/39261924)
 - GitHub [茶目](https://github.com/Cyame)
 
 イラスト：
@@ -87,10 +87,10 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 特別協力：
 
-- [VTuber Music](https://vtbmusic.com/)
+- [VTuber Music](https://vtbmusic.com)
 - - Bilibili [Amane Kanata Official](https://space.bilibili.com/491474048)
 - Bilibili [Amane Kanata Bowl Factory](https://space.bilibili.com/54139629)
-- 天音梧桐
+- [天音梧桐](https://space.bilibili.com/31565151)
 - そして、GitHubでこのプロジェクトに参加した以下の方々
 
 [![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
