@@ -358,6 +358,15 @@
             "ja": "（かなたん）今度は逃げないでね…私から逃げないでね…",
             "en": "(Kanatan)Don't leave me"
           }
+        },
+        {
+          "name": "k-x-001",
+          "path": "/k-x-001.mp3",
+          "description": {
+            "zh": "neeeeemooooooooooo",
+            "ja": "ねぇーもうー",
+            "en": "NeeeMooo"
+          }
         }
       ]
     },
@@ -403,6 +412,42 @@
             "zh": "Ahoy！我是宝钟海贼团团长，宝钟玛琳desu~",
             "ja": "Ahoy！宝鐘海賊団船長の宝鐘マリンですぅ",
             "en": "Ahoy! I'm the Hosho pirate's captain Hosho Marine"
+          }
+        },
+        {
+          "name": "k-x-005",
+          "path": "/k-x-005.mp3",
+          "description": {
+            "zh": "wtm没有错吧",
+            "ja": "わためは悪くないよね？",
+            "en": "It is not watame's fault, right?"
+          }
+        },
+        {
+          "name": "k-x-008",
+          "path": "/k-x-008.mp3",
+          "description": {
+            "zh": "konpeko（激情态）",
+            "ja": "こんぺこ（ガンギマリ）",
+            "en": "Hi Peko (High Tension)"
+          }
+        },
+        {
+          "name": "k-x-010",
+          "path": "/k-x-010.mp3",
+          "description": {
+            "zh": "狗",
+            "ja": "いぬ真似",
+            "en": "Dog imitation"
+          }
+        },
+        {
+          "name": "k-x-012",
+          "path": "/k-x-012.mp3",
+          "description": {
+            "zh": "猫",
+            "ja": "ねこ真似",
+            "en": "Cat imitation"
           }
         }
       ]
@@ -795,6 +840,15 @@
             "ja": "ドッコイショ！ドッコイショ！",
             "en": "Dokkoisho, dokkoisho!"
           }
+        },
+        {
+          "name": "k-x-011",
+          "path": "/k-x-011.mp3",
+          "description": {
+            "zh": "海豚音（烧开水）",
+            "ja": "息絶える高い声芸",
+            "en": "High-voice"
+          }
         }
       ]
     },
@@ -840,6 +894,15 @@
             "zh": "小粥前辈 让我吹凉一点吃掉吧(音妹Ver.)",
             "ja": "（かなたん）おかゆ先輩…フーフーして食べさせてください",
             "en": "(Kanatan)Okayu Senppai... let me have you"
+          }
+        },
+        {
+          "name": "k-x-007",
+          "path": "/k-x-007.mp3",
+          "description": {
+            "zh": "miko酱kawaii",
+            "ja": "みこちゃんかわいい",
+            "en": "Miko chan Kawaii"
           }
         }
       ]
@@ -931,6 +994,51 @@
             "zh": "の段（颤抖）",
             "ja": "の段（震え声）",
             "en": "no Dan (shaking)"
+          }
+        },
+        {
+          "name": "k-x-002",
+          "path": "/k-x-002.mp3",
+          "description": {
+            "zh": "cocodayo",
+            "ja": "ここだよ",
+            "en": "It's right here."
+          }
+        },
+        {
+          "name": "k-x-003",
+          "path": "/k-x-003.mp3",
+          "description": {
+            "zh": "这里xN",
+            "ja": "ここ！xN",
+            "en": "Here! Here!"
+          }
+        },
+        {
+          "name": "k-x-004",
+          "path": "/k-x-004.mp3",
+          "description": {
+            "zh": "跳脸",
+            "ja": "おりゃ！",
+            "en": "Ora!"
+          }
+        },
+        {
+          "name": "k-x-006",
+          "path": "/k-x-006.mp3",
+          "description": {
+            "zh": "の段",
+            "ja": "の段",
+            "en": "no Dan"
+          }
+        },
+        {
+          "name": "k-x-009",
+          "path": "/k-x-009.mp3",
+          "description": {
+            "zh": "遇到大家真的是太幸福了",
+            "ja": "僕がみんなと話せて、みんなと出会えて、本当に幸せだったよ！ああああ！",
+            "en": "I'm too lucky to meet your guys"
           }
         }
       ]
