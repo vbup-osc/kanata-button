@@ -18,7 +18,6 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 ## 計画中の機能
 
-<!-- - kanatatap([mikutap](https://aidn.jp/mikutap/) に類似) -->
 - 生放送や動画のカレンダーを表示
 <!-- - フブキのスタンプ/ミーム -->
 - YouTube/Bilibiliのデータを表示
