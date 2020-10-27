@@ -10,11 +10,11 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 项目主页： https://kanata.club
 
-相关链接:
+<!-- 相关链接:
 
 - [天音彼方的 YouTube 频道](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
 - [天音彼方的 Bilibili 频道](https://space.bilibili.com/491474048)
-- [天音彼方的 Twitter](https://twitter.com/amanekanatach)
+- [天音彼方的 Twitter](https://twitter.com/amanekanatach) -->
 
 <!-- ## 计划中的特性
 
@@ -95,7 +95,7 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 ## 协议
 
-音频部分: [Hololive 二次创作条款](https://www.hololive.tv/terms) (只有日语).
+<!-- 音频部分: [Hololive 二次创作条款](https://www.hololive.tv/terms) (只有日语). -->
 
 其他部分：[MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
 
