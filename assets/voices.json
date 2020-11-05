@@ -388,15 +388,6 @@
           }
         },
         {
-          "name": "k-i-001",
-          "path": "/k-i-001.mp3",
-          "description": {
-            "zh": "我是桐生可可",
-            "ja": "桐生ココです～",
-            "en": "I'm Kiryu Coco"
-          }
-        },
-        {
           "name": "k-i-007",
           "path": "/k-i-007.mp3",
           "description": {
