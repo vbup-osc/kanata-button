@@ -10,11 +10,11 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 Homepage: https://kanata.club
 
-Related Links:
+<!-- Related Links:
 
 * [Amane Kanata's Youtube Channel](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
 * [Amane Kanata's Bilibili Channel](https://space.bilibili.com/491474048)
-* [Amane Kanata's Twitter](https://twitter.com/amanekanatach)
+* [Amane Kanata's Twitter](https://twitter.com/amanekanatach) -->
 
 
 ## Contributing
@@ -96,7 +96,7 @@ Special Thanks to:
 
 ## LICENCE
 
-Audio: According to the [Hololive Secondary Creation Terms](https://www.hololive.tv/terms) (Japanese only).
+<!-- Audio: According to the [Hololive Secondary Creation Terms](https://www.hololive.tv/terms) (Japanese only). -->
 
 Other parts: [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
 

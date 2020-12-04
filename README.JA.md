@@ -10,11 +10,11 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 ホームページ https://kanata.club
 
-関連リンク:
+<!-- 関連リンク:
 
 * [天音かなたのYouTubeチャンネル](https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg)
 * [天音かなたのBilibiliチャンネル](https://space.bilibili.com/491474048)
-* [天音かなたのTwitter](https://twitter.com/amanekanatach)
+* [天音かなたのTwitter](https://twitter.com/amanekanatach) -->
 
 ## 計画中の機能
 
@@ -97,7 +97,7 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 
 プログラム： [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
 
-音声: [Hololive 二次创作条款](https://www.hololive.tv/terms)
+<!-- 音声: [Hololive 二次创作条款](https://www.hololive.tv/terms) -->
 
 このプロジェクトはファンによるもので、Hololive公式は一切関係ありません
 

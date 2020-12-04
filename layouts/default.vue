@@ -258,21 +258,21 @@ export default {
       drawer: false,
       fixed: false,
       nav_items: [
-        {
-          icon: '/img/youtube-fill.svg',
-          title: 'Youtube',
-          to: 'https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg'
-        },
-        {
-          icon: '/img/twitter-fill.svg',
-          title: 'Twitter',
-          to: 'https://twitter.com/amanekanatach'
-        },
-        {
-          icon: '/img/bilibili-fill.svg',
-          title: 'Bilibili',
-          to: 'https://space.bilibili.com/491474048'
-        }
+        // {
+        //   icon: '/img/youtube-fill.svg',
+        //   title: 'Youtube',
+        //   to: 'https://www.youtube.com/channel/UCZlDXzGoo7d44bwdNObFacg'
+        // },
+        // {
+        //   icon: '/img/twitter-fill.svg',
+        //   title: 'Twitter',
+        //   to: 'https://twitter.com/amanekanatach'
+        // },
+        // {
+        //   icon: '/img/bilibili-fill.svg',
+        //   title: 'Bilibili',
+        //   to: 'https://space.bilibili.com/491474048'
+        // }
       ],
       external_cn: [
         {
