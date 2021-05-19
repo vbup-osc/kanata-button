@@ -1,10 +1,10 @@
 # Kanata-Button - Amane Kanata's Voice Button
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/vbup-osc/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/vbup-osc/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/vbup-osc/kanata-button?style=flat-square)
 
-README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | **English**
+README: [中文](https://github.com/vbup-osc/kanata-button/blob/master/README.md) | [日本語](https://github.com/vbup-osc/kanata-button/blob/master/README.JA.md) | **English**
 
 > Brand new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.
 
@@ -92,13 +92,13 @@ Special Thanks to:
 - [天音梧桐](https://space.bilibili.com/31565151)
 - And those who contributed to this project on GitHub
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=vbup-osc/kanata-button)](https://github.com/vbup-osc/kanata-button/graphs/contributors)
 
 ## LICENCE
 
 <!-- Audio: According to the [Hololive Secondary Creation Terms](https://www.hololive.tv/terms) (Japanese only). -->
 
-Other parts: [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
+Other parts: [MIT License](https://github.com/vbup-osc/kanata-button/blob/master/LICENSE)
 
 This project is a work of enthusiasts and is not related to the Hololive official.
 

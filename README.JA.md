@@ -1,10 +1,10 @@
 # かなたんボタン - 天音かなたのボイスボタン
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/vbup-osc/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/vbup-osc/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/vbup-osc/kanata-button?style=flat-square)
 
-README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md) | **日本語** | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
+README: [中文](https://github.com/vbup-osc/kanata-button/blob/master/README.md) | **日本語** | [English](https://github.com/vbup-osc/kanata-button/blob/master/README.EN.md)
 
 > 新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー
 
@@ -91,11 +91,11 @@ GitHubの開発に直接参加する方法が分からない場合は、素材�
 - [天音梧桐](https://space.bilibili.com/31565151)
 - そして、GitHubでこのプロジェクトに参加した以下の方々
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=vbup-osc/kanata-button)](https://github.com/vbup-osc/kanata-button/graphs/contributors)
 
 ## LICENCE
 
-プログラム： [MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
+プログラム： [MIT License](https://github.com/vbup-osc/kanata-button/blob/master/LICENSE)
 
 <!-- 音声: [Hololive 二次创作条款](https://www.hololive.tv/terms) -->
 

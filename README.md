@@ -1,10 +1,10 @@
 # 彼方碳按钮 / KANATA-BUTTON
 
-![Version](https://img.shields.io/github/package-json/v/oruyanke/kanata-button?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/oruyanke/kanata-button?style=flat-square)
-![Starts](https://img.shields.io/github/stars/oruyanke/kanata-button?style=flat-square)
+![Version](https://img.shields.io/github/package-json/v/vbup-osc/kanata-button?style=flat-square)
+![Last Commit](https://img.shields.io/github/last-commit/vbup-osc/kanata-button?style=flat-square)
+![Starts](https://img.shields.io/github/stars/vbup-osc/kanata-button?style=flat-square)
 
-README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/master/README.JA.md) | [English](https://github.com/oruyanke/kanata-button/blob/master/README.EN.md)
+README: **中文** | [日本語](https://github.com/vbup-osc/kanata-button/blob/master/README.JA.md) | [English](https://github.com/vbup-osc/kanata-button/blob/master/README.EN.md)
 
 > 新生彼方碳按钮，绝赞持续建设中~
 
@@ -27,7 +27,7 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 如果您不知道如何直接参与GitHub开发，可以直接将素材或意见建议发送到[开发者邮箱](mailto:13626941473@qq.com)，带上标题、内容以及您的ID（Bilibili、Twitter等均可），贡献者名单将会有您的名字。
 
-当然您也可以发在 [Issues](https://github.com/oruyanke/kanata-button/issues) ，同样也请带上标题和内容。
+当然您也可以发在 [Issues](https://github.com/vbup-osc/kanata-button/issues) ，同样也请带上标题和内容。
 
 如果您可以进行开发，那么请Fork本项目进行修改，完成修改后在本项目中发起一个Pull Request，详细说明如下：
 
@@ -91,13 +91,13 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 - [天音梧桐](https://space.bilibili.com/31565151)
 - 以及以下在GitHub参与过项目的各位
 
-[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/fubuki-button)](https://github.com/oruyanke/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=oruyanke/kanata-button)](https://github.com/oruyanke/kanata-button/graphs/contributors)
+[![GitHub Contributors](https://contributors-img.web.app/image?repo=vbup-osc/fubuki-button)](https://github.com/vbup-osc/fubuki-button/graphs/contributors)[![GitHub Contributors](https://contributors-img.web.app/image?repo=vbup-osc/kanata-button)](https://github.com/vbup-osc/kanata-button/graphs/contributors)
 
 ## 协议
 
 <!-- 音频部分: [Hololive 二次创作条款](https://www.hololive.tv/terms) (只有日语). -->
 
-其他部分：[MIT License](https://github.com/oruyanke/kanata-button/blob/master/LICENSE)
+其他部分：[MIT License](https://github.com/vbup-osc/kanata-button/blob/master/LICENSE)
 
 本项目为爱好者作品，和 Hololive 官方没有关联
 

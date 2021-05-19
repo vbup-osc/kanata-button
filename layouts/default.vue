@@ -128,19 +128,19 @@
           <div style="vertical-align: middle;">
             <span>&copy; {{ new Date().getFullYear() }} </span>
             <span>
-              <a href="https://github.com/lonelyion" target="_blank" rel="noreferrer">
-                {{ $t('site.footer.lonely_ion') }}
+              <a href="https://github.com/Cyame" target="_blank" rel="noreferrer">
+                {{ $t('site.footer.author') }}
               </a>
             </span>
             <span>
               &
-              <a href="https://github.com/oruyanke" target="_blank" rel="noreferrer">
-                {{ $t('site.footer.oruyanke') }}
+              <a href="https://github.com/vbup-osc" target="_blank" rel="noreferrer">
+                {{ $t('site.footer.vbup-osc') }}
               </a>
             </span>
             <v-btn
               icon
-              href="https://github.com/oruyanke/kanata-button"
+              href="https://github.com/vbup-osc/kanata-button"
               target="_blank"
               style="vertical-align: middle;"
               rel="noreferrer"
@@ -277,13 +277,13 @@ export default {
       external_cn: [
         {
           icon: 'alpha_b_box',
-          title: '天音彼方陶碗工厂',
-          to: 'https://space.bilibili.com/54139629'
+          title: '天界学园放送部',
+          to: 'https://space.bilibili.com/303584114'
         },
         {
           icon: 'newspaper',
-          title: '天音彼方周报',
-          to: 'https://www.bilibili.com/read/readlist/rl233589'
+          title: 'VBUP-OSC',
+          to: 'https://github.com/vbup-osc'
         }
       ]
     };

@@ -1,8 +1,8 @@
 {
   "name": "kanata-button",
-  "version": "1.3.1",
+  "version": "1.4.1",
   "description": "Voice Button for Amane Kanata",
-  "author": "Lonely_ion",
+  "author": "Cyame",
   "private": true,
   "scripts": {
     "dev": "nuxt",

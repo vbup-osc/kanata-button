@@ -188,7 +188,7 @@ export default {
   computed: {
     voice_host() {
       if (process.env.NODE_ENV === 'production')
-        return 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/';
+        return 'https://cdn.jsdelivr.net/gh/vbup-osc/kanata-button@master/static/voices/';
       else return '/voices/';
     },
     dark_text() {
