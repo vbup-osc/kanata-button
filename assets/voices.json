@@ -4,8 +4,8 @@
       "group_name": "moe",
       "group_description": {
         "zh": "萌",
-        "en": "萌え",
-        "ja": "Moe"
+        "en": "Moe",
+        "ja": "萌え"
       },
       "voice_list": [
         {
@@ -374,8 +374,8 @@
       "group_name": "imitation",
       "group_description": {
         "zh": "模仿秀",
-        "en": "お真似",
-        "ja": "Imitation"
+        "en": "Imitation",
+        "ja": "お真似"
       },
       "voice_list": [
         {
@@ -385,6 +385,15 @@
             "zh": "喵喵喵喵喵",
             "ja": "にゃにゃにゃにゃにゃー",
             "en": "nya nya nya nya nya"
+          }
+        },
+        {
+          "name": "k-i-001",
+          "path": "/k-i-001.mp3",
+          "description": {
+            "zh": "我是桐生可可",
+            "ja": "桐生ココです～",
+            "en": "I'm Kiryu Coco"
           }
         },
         {
@@ -447,8 +456,8 @@
       "group_name": "chinese",
       "group_description": {
         "zh": "说中文",
-        "en": "中国語",
-        "ja": "Chinese"
+        "en": "Chinese",
+        "ja": "中国語"
       },
       "voice_list": [
         {
@@ -502,8 +511,8 @@
       "group_name": "special",
       "group_description": {
         "zh": "特殊",
-        "en": "スペシャル",
-        "ja": "Special"
+        "en": "Special",
+        "ja": "スペシャル"
       },
       "voice_list": [
         {
@@ -602,8 +611,8 @@
       "group_name": "kana-kun",
       "group_description": {
         "zh": "天哥",
-        "en": "かなくん",
-        "ja": "Kana-Kun"
+        "en": "Kana-Kun",
+        "ja": "かなくん"
       },
       "voice_list": [
         {
@@ -783,8 +792,8 @@
       "group_name": "voice-source",
       "group_description": {
         "zh": "天乐器",
-        "en": "奇声",
-        "ja": "Voice source"
+        "en": "Voice source",
+        "ja": "奇声"
       },
       "voice_list": [
         {
@@ -847,8 +856,8 @@
       "group_name": "tete",
       "group_description": {
         "zh": "贴贴",
-        "en": "てぇてぇ",
-        "ja": "Tete"
+        "en": "Tete",
+        "ja": "てぇてぇ"
       },
       "voice_list": [
         {
@@ -902,8 +911,8 @@
       "group_name": "general",
       "group_description": {
         "zh": "通用",
-        "en": "一般",
-        "ja": "General"
+        "en": "General",
+        "ja": "一般"
       },
       "voice_list": [
         {
