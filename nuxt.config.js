@@ -153,17 +153,6 @@ export default {
    */
   build: {
     optimizeCSS: is_production,
-    extractCSS: is_production,
-    extend(config, ctx) {
-      // Run ESLint on save
-      if (ctx.isDev && ctx.isClient) {
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        });
-      }
-    }
+    extractCSS: is_production
   }
-};
+}
