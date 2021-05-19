@@ -2,6 +2,10 @@ import colors from 'vuetify/es5/util/colors';
 
 const is_production = process.env.NODE_ENV === 'production';
 
+const repoName = 'kanata-button'
+const hostName = 'https://vbup-osc.github.io'
+const siteUrl = `${hostName}/${repoName}/`
+
 export default {
   mode: 'universal',
   target: 'static',
@@ -30,18 +34,18 @@ export default {
       },
       { hid: 'og:site_name', property: 'og:site_name', content: 'かなたんボタン' },
       { hid: 'og:type', property: 'og:type', content: 'website' },
-      { hid: 'og:url', property: 'og:url', content: 'https://kanata.club' },
+      { hid: 'og:url', property: 'og:url', content: siteUrl },
       { hid: 'og:title', property: 'og:title', content: 'かなたんボタン' },
       {
         hid: 'og:description',
         property: 'og:description',
         content: '新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー'
       },
-      { hid: 'og:image', property: 'og:image', content: 'https://kanata.club/img/og_common.png' },
+      { hid: 'og:image', property: 'og:image', content: `/${repoName}/img/og_common.png` },
       { name: 'twitter:card', content: 'summary_large_image' },
       { name: 'twitter:site', content: '@Cyame' }
     ],
-    link: [{ rel: 'icon', type: 'image/x-icon', href: '/favicon.ico' }]
+    link: [{ rel: 'icon', type: 'image/x-icon', href: `/${repoName}/favicon.ico` }]
   },
   /*
    ** Customize the progress-bar color
@@ -60,7 +64,8 @@ export default {
     { src: '@plugins/analytics.js', mode: 'client' }
   ],
   router: {
-    middleware: 'ui_config'
+    middleware: 'ui_config',
+    base: is_production ? `/${repoName}/` : '/'
   },
   /*
    ** Nuxt.js dev-modules
@@ -112,7 +117,7 @@ export default {
     workbox: {
       runtimeCaching: [
         {
-          urlPattern: 'https://cdn.jsdelivr.net/gh/oruyanke/kanata-button@master/static/voices/*'
+          urlPattern: 'https://cdn.jsdelivr.net/gh/vbup-osc/kanata-button@master/static/voices/*'
         }
       ]
     }
@@ -126,7 +131,7 @@ export default {
   },
   sitemap: {
     path: '/sitemap.xml',
-    hostname: 'https://kanata.club',
+    hostname: hostName,
     routes: [
       {
         url: '/',
@@ -153,17 +158,6 @@ export default {
    */
   build: {
     optimizeCSS: is_production,
-    extractCSS: is_production,
-    extend(config, ctx) {
-      // Run ESLint on save
-      if (ctx.isDev && ctx.isClient) {
-        config.module.rules.push({
-          enforce: 'pre',
-          test: /\.(js|vue)$/,
-          loader: 'eslint-loader',
-          exclude: /(node_modules)/
-        });
-      }
-    }
+    extractCSS: is_production
   }
-};
+}
