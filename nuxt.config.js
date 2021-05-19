@@ -2,9 +2,9 @@ import colors from 'vuetify/es5/util/colors';
 
 const is_production = process.env.NODE_ENV === 'production';
 
-const repoName = 'kanata-button'
-const hostName = 'https://vbup-osc.github.io'
-const siteUrl = `${hostName}/${repoName}/`
+const repoName = 'kanata-button';
+const hostName = 'https://vbup-osc.github.io';
+const siteUrl = `${hostName}/${repoName}/`;
 
 export default {
   mode: 'universal',
@@ -160,4 +160,4 @@ export default {
     optimizeCSS: is_production,
     extractCSS: is_production
   }
-}
+};

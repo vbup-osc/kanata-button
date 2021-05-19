@@ -27,7 +27,7 @@ export default {
   head() {
     return {
       title: this.$t('site.about') + ' - ' + this.$t('site.title'),
-      link: [{ rel: 'canonical', href: 'https://kanata.club/about' }]
+      link: [{ rel: 'canonical', href: 'https://vbup-osc.github.io/kanata-button/about' }]
     };
   }
 };

@@ -8,7 +8,7 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 > 新生かなたんボタンサイトへようこそ！かなたんの総合ファンページを目指しますー
 
-ホームページ https://kanata.club
+ホームページ https://vbup-osc.github.io/kanata-button
 
 <!-- 関連リンク:
 

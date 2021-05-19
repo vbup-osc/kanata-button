@@ -341,7 +341,7 @@ export default {
   head() {
     return {
       title: this.$t('site.title'),
-      link: [{ rel: 'canonical', href: 'https://kanata.club' }]
+      link: [{ rel: 'canonical', href: 'https://vbup-osc.github.io/kanata-button' }]
     };
   }
 };

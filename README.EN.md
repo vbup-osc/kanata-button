@@ -8,7 +8,7 @@ README: [中文](https://github.com/oruyanke/kanata-button/blob/master/README.md
 
 > Brand new voice buttons for Amane Kanata, we are aimming at building a comprehensive project related to Amane Kanata.
 
-Homepage: https://kanata.club
+Homepage: https://vbup-osc.github.io/kanata-button
 
 <!-- Related Links:
 

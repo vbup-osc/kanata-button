@@ -8,7 +8,7 @@ README: **中文** | [日本語](https://github.com/oruyanke/kanata-button/blob/
 
 > 新生彼方碳按钮，绝赞持续建设中~
 
-项目主页： https://kanata.club
+项目主页： https://vbup-osc.github.io/kanata-button
 
 <!-- 相关链接:
 
